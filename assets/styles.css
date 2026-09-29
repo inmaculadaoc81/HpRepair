@@ -146,3 +146,6 @@ header{background:#fff}.links a:hover{color:var(--hp-blue)}
 
 /* Mayor contraste azul en la sección Así trabajamos */
 #proceso .kicker{color:#39a0ff!important}
+
+/* Mostrar correctamente el isotipo HpRepair */
+.brand-logo,.footer-brand .brand-logo{width:52px!important;height:52px!important;object-fit:contain!important;border-radius:0!important;display:block!important;flex:none!important}
