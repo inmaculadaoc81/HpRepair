@@ -149,3 +149,4 @@ header{background:#fff}.links a:hover{color:var(--hp-blue)}
 
 /* Mostrar correctamente el isotipo HpRepair */
 .brand-logo,.footer-brand .brand-logo{width:52px!important;height:52px!important;object-fit:contain!important;border-radius:0!important;display:block!important;flex:none!important}
+.quote svg{width:20px!important;height:20px!important;max-width:20px!important;max-height:20px!important;flex:0 0 20px!important}
